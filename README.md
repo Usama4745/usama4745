@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama4745" alt="usama4745" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/marfisdev" target="blank"><img src="https://img.shields.io/twitter/follow/marfisdev?logo=twitter&style=for-the-badge" alt="marfisdev" /></a> </p>
 
 - 🌱 I’m currently learning **python**
 

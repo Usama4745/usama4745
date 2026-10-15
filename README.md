@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [**BloomRecord**](https://github.com/Usama4745/Bloomrecord), a fully local, privacy-first screen recorder
 
-- 🌱 I’m currently learning **python**
-
 - 💬 Ask me about **react, angular**
 
 - 📫 How to reach me **usama4745@gmail.com**
